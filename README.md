@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a 1st-year CSE student specializing in **Cybersecurity**. 
+
+### 🚀 What I'm Up To
+* 💻 Building my first personal website from scratch.
+* 🐸 Mastering **CSS Layouts** via Flexbox.
+* 🛡️ Learning the fundamentals of Cybersecurity.
+
+---
+*"Progress over perfection."*
+
