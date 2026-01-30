@@ -8,7 +8,7 @@
     flex-direction: column;
     align-items: center;
   }
-</style>
+
 
 
 
@@ -23,4 +23,6 @@ I am a 1st-year CSE student specializing in **Cybersecurity**.
 
 ---
 *"The best way to predict the future is to create it."*
+
+  </style>
 
