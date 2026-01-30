@@ -1,17 +1,3 @@
-<style>
-  /* All the color and flexbox instructions go here */
-  body {
-    background-color: black;
-    color: #00FF41;
-    font-family: monospace;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-
-
-
 ## Hello there 👋
 
 I am a 1st-year CSE student specializing in **Cybersecurity**. 
@@ -24,5 +10,5 @@ I am a 1st-year CSE student specializing in **Cybersecurity**.
 ---
 *"The best way to predict the future is to create it."*
 
-  </style>
+
 
