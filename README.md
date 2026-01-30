@@ -1,26 +1,12 @@
 ## Hi there 👋
 
-<!--
-**r-kevinn/r-kevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I am a 1st-year CSE student specializing in **Cybersecurity**. 
 
-### 🚀 What I'm Up To
-* 💻 Building my first personal website from scratch.
-* 🐸 Mastering **CSS Layouts** via Flexbox.
-* 🛡️ Learning the fundamentals of Cybersecurity.
+### 🚀 Recent Milestones
+* ✅ **Mastered Flexbox:** Completed all 24 levels of Flexbox Froggy.
+* 💻 **Web Dev:** Building a solid foundation in HTML/CSS layouts.
+* 🛡️ **Cyber:** Exploring security fundamentals.
 
 ---
-*"Progress over perfection."*
+*"The best way to predict the future is to create it."*
 
