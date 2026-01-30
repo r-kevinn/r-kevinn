@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I am a 1st-year CSE student specializing in **Cybersecurity**. 
 
