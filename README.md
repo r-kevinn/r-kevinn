@@ -1,13 +1,10 @@
-## Hello there 👋
+# Hello there 👋
 
-I am a 1st-year CSE student specializing in **Cybersecurity**. 
+I am a 2nd-year CSE student specializing in Cybersecurity.
 
-### 🚀 Recent Milestones
-* ✅ **Mastered Flexbox:** Completed all 24 levels of Flexbox Froggy.
-* 🛡️ **Cyber:** Exploring security fundamentals.
+🚀 Recent Milestones
+* 💻 **Development & Scripting:** Building and prototyping security tools using Python.
+* 🛡️ **Cybersecurity:** Exploring security fundamentals, binary analysis, and threat detection.
+* 🏆 **Hackathons:** Actively participating in hackathons to build proof-of-concept prototypes under time constraints.
 
----
-*"The best way to predict the future is to create it."*
-
-
-
+"The best way to predict the future is to create it."
